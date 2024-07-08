@@ -17,9 +17,12 @@
 ## What I am learning
 
 - Javascript
+- REACT;
+- Node.js
 - MySQL
 - HTML
 - CSS
+- French(B2)
 
 ## My dream
 
