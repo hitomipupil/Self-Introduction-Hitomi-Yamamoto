@@ -12,7 +12,7 @@
 
 - cats
 - movies
-- drawing
+- drawing(Yes, I draw my profile picture!)
 
 ## What I am learning
 
